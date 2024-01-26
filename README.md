@@ -21,7 +21,8 @@ This repository serves as a collection of Java implementations for fundamental d
 - [Stack](StackOperation/src/MyLinkedStack/LinkedListStack.java): Implementation of a stack using linkedlist.
 - [Queue](MyQueue/src/DoubleEndedQueue/Queue.java): Implementation of a queue.
 - [BinarySearchTree](BST/src/bst.java): Implementation of a binary search tree.
-- [HashMap](src/main/java/HashMap.java): Implementation of a hash map.
+- [Heap](Heap/maxHeap.java): Implementation of max heap.
+- [HashMap](HashMap): Implementation of a hash map.
 
 *Feel free to explore the code for additional details on each implementation.*
 
