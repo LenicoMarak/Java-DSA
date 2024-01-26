@@ -16,8 +16,7 @@ This repository serves as a collection of Java implementations for fundamental d
 
 ## Implemented Data Structures
 
-- [LinkedList](MyLinkedList/src/com/my
-/ownLinkedlist/LinkedList.java): Implementation of a singly linked list.
+- [LinkedList](MyOwnLinkedList/src/com/my/ownLinkedlist/LinkedList.java): Implementation of a singly linked list.
 - [Stack](src/main/java/Stack.java): Implementation of a stack.
 - [Queue](src/main/java/Queue.java): Implementation of a queue.
 - [BinarySearchTree](src/main/java/BinarySearchTree.java): Implementation of a binary search tree.
