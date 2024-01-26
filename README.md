@@ -8,7 +8,6 @@ This repository contains Java implementations of various data structures. Each d
 2. [Implemented Data Structures](#implemented-data-structures)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
@@ -22,7 +21,7 @@ This repository serves as a collection of Java implementations for fundamental d
 - [Queue](MyQueue/src/DoubleEndedQueue/Queue.java): Implementation of a queue.
 - [BinarySearchTree](BST/src/bst.java): Implementation of a binary search tree.
 - [Heap](Heap/maxHeap.java): Implementation of max heap.
-- [HashMap](HashMap): Implementation of a hash map.
+- [HashMap](HashMap/hashMap.java): Implementation of a hash map.
 
 *Feel free to explore the code for additional details on each implementation.*
 
