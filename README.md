@@ -22,6 +22,7 @@ This repository serves as a collection of Java implementations for fundamental d
 - [BinarySearchTree](BST/src/bst.java): Implementation of a binary search tree.
 - [Heap](Heap/maxHeap.java): Implementation of max heap.
 - [HashMap](HashMap/hashMap.java): Implementation of a hash map.
+- And more.
 
 *Feel free to explore the code for additional details on each implementation.*
 
