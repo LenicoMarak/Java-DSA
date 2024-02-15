@@ -48,8 +48,7 @@ public class SpiralMatrix{
             for(int j=0;j<mat[0].length;j++){
                 if(mat[i][j]==0){
                     zero++;
-                }
-                if(mat[i][j]>0){
+                }else{
                     non_zero++;
                 }
             }
